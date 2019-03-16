@@ -1,14 +1,14 @@
 # Informacion Importante
 
 
-##JSON
+## JSON
 ----------------------------------------------------------------
 FloatRates(json con movimientos de las divisas)
 NOTA: Pagina web que contiene archivos json (abrir pagina web para explorar)
 http://www.floatrates.com/json-feeds.html
 
 
-##XML
+## XML
 ---------------------------------------------------------------------
 Consultar que es un metadato.
 RDS(Metadados) MeData sobre indigenas
@@ -16,7 +16,7 @@ NOTA: El enlace es un archivo xml con metadatos (no con datos)
 http://medata.gov.co/dataset/poblacion-indigena.xml
 
 
-##html
+## html
 ------------------------------------------------------------------
 Url pagina html de la cual se quier extraer información
 https://es.wikipedia.org/wiki/Colombia
